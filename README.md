@@ -2,7 +2,6 @@
 
 A complete **real-time data pipeline and analytics dashboard** for Bitcoin (BTC-USDT) trades, built with Python, WebSockets, and Streamlit.
 
-![Dashboard Screenshot](screenshot.png)
 
 ## 🚀 Project Overview
 

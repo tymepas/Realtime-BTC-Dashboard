@@ -36,9 +36,11 @@ This project demonstrates end-to-end real-time data engineering:
 realtime-btc-dashboard/
 ├── data/ # Generated data files (not committed to Git)
 │ └── btc_trades.csv # Collected trade data
+
 ├── src/
 │ ├── collect_data.py # WebSocket data collector
 │ └── dashboard.py # Streamlit dashboard
+
 ├── requirements.txt # Python dependencies
 ├── .gitignore # Git ignore rules
 └── README.md # This file

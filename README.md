@@ -43,6 +43,8 @@ realtime-btc-dashboard/
 ├── .gitignore # Git ignore rules
 └── README.md # This file
 
+
+
 ## 🤝 Contributing
 
 This is a portfolio project, but suggestions are welcome! Feel free to open issues or submit pull requests.
@@ -53,7 +55,7 @@ MIT License - feel free to use this project for learning purposes.
 
 ## 👤 Author
 
-**[Your Name]**
+**Garvit Mathur**
 - GitHub: https://github.com/tymepas
 - LinkedIn: https://linkedin.com/in/garvitai/
 - Portfolio: https://shorturl.at/1Qdr5
